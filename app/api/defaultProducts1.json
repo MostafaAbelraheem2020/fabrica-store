@@ -1,0 +1,1388 @@
+[
+  {
+    "title": "Men's Classic Cotton Shirt",
+    "category": "men",
+    "description": "Premium cotton dress shirt perfect for business and formal occasions.",
+    "price": 89.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Denim Jeans",
+    "category": "men",
+    "description": "Classic straight-fit denim jeans made from premium cotton blend.",
+    "price": 79.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Casual T-Shirt",
+    "category": "men",
+    "description": "Comfortable crew neck t-shirt made from soft cotton fabric.",
+    "price": 29.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571945153237-4929e783af4a?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Leather Jacket",
+    "category": "men",
+    "description": "Genuine leather jacket with modern cut and premium finishing.",
+    "price": 299.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1520975747058-c6fed04ac965?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Hoodie",
+    "category": "men",
+    "description": "Comfortable pullover hoodie perfect for casual wear and layering.",
+    "price": 69.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Polo Shirt",
+    "category": "men",
+    "description": "Classic polo shirt with three-button placket and ribbed collar.",
+    "price": 49.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Chinos",
+    "category": "men",
+    "description": "Versatile chino pants suitable for both casual and smart-casual looks.",
+    "price": 89.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Sweater",
+    "category": "men",
+    "description": "Cozy knit sweater made from soft wool blend for cooler weather.",
+    "price": 99.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Blazer",
+    "category": "men",
+    "description": "Smart casual blazer perfect for office wear and special occasions.",
+    "price": 199.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Track Pants",
+    "category": "men",
+    "description": "Athletic track pants with elastic waistband and tapered fit.",
+    "price": 59.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Bomber Jacket",
+    "category": "men",
+    "description": "Classic bomber jacket with ribbed collar and cuffs.",
+    "price": 129.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Shorts",
+    "category": "men",
+    "description": "Comfortable summer shorts with 7-inch inseam and side pockets.",
+    "price": 39.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1506629905077-67e5c63d1d37?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Tank Top",
+    "category": "men",
+    "description": "Lightweight tank top perfect for workouts and hot weather.",
+    "price": 19.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Cardigan",
+    "category": "men",
+    "description": "Classic button-up cardigan with ribbed trim and front pockets.",
+    "price": 89.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Henley Shirt",
+    "category": "men",
+    "description": "Long-sleeve henley with button placket and ribbed cuffs.",
+    "price": 44.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1571945153237-4929e783af4a?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Vest",
+    "category": "men",
+    "description": "Sleeveless knit vest perfect for layering over shirts.",
+    "price": 54.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Joggers",
+    "category": "men",
+    "description": "Comfortable jogger pants with elastic waistband and cuffed ankles.",
+    "price": 64.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1506629905077-67e5c63d1d37?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Button-Down Shirt",
+    "category": "men",
+    "description": "Classic button-down shirt with chest pocket and curved hem.",
+    "price": 74.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Windbreaker",
+    "category": "men",
+    "description": "Lightweight windbreaker jacket perfect for outdoor activities.",
+    "price": 79.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1520975747058-c6fed04ac965?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Turtleneck",
+    "category": "men",
+    "description": "Classic turtleneck sweater made from soft merino wool blend.",
+    "price": 94.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Swim Shorts",
+    "category": "men",
+    "description": "Quick-dry swim shorts with mesh lining and elastic waistband.",
+    "price": 34.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Peacoat",
+    "category": "men",
+    "description": "Classic double-breasted peacoat in wool blend with large lapels.",
+    "price": 249.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Flannel Shirt",
+    "category": "men",
+    "description": "Soft flannel shirt perfect for casual weekend wear.",
+    "price": 59.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Cargo Pants",
+    "category": "men",
+    "description": "Functional cargo pants with multiple pockets and relaxed fit.",
+    "price": 89.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Men's Linen Shirt",
+    "category": "men",
+    "description": "Breathable linen shirt perfect for summer and warm weather.",
+    "price": 69.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Maxi Dress",
+    "category": "women",
+    "description": "Elegant flowing maxi dress perfect for special occasions and events.",
+    "price": 129.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566479179817-83f5127a8b1d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Blouse",
+    "category": "women",
+    "description": "Elegant silk blouse with button front and relaxed fit.",
+    "price": 89.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564257577054-1e1f2675a9b9?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Pencil Skirt",
+    "category": "women",
+    "description": "Classic pencil skirt with high waist and knee-length cut.",
+    "price": 69.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Cardigan",
+    "category": "women",
+    "description": "Cozy knit cardigan with button closure and front pockets.",
+    "price": 79.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544441892-794166f1e3be?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Jeans",
+    "category": "women",
+    "description": "High-waisted skinny jeans with stretch for comfort and style.",
+    "price": 99.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's T-Shirt",
+    "category": "women",
+    "description": "Basic cotton t-shirt with crew neck and relaxed fit.",
+    "price": 29.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571945153237-4929e783af4a?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Blazer",
+    "category": "women",
+    "description": "Tailored blazer perfect for professional and formal occasions.",
+    "price": 149.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Wrap Dress",
+    "category": "women",
+    "description": "Flattering wrap dress with three-quarter sleeves and midi length.",
+    "price": 109.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1566479179817-83f5127a8b1d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Sweater",
+    "category": "women",
+    "description": "Soft cashmere sweater with ribbed trim and relaxed fit.",
+    "price": 119.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544441892-794166f1e3be?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Jumpsuit",
+    "category": "women",
+    "description": "Stylish jumpsuit with wide legs and adjustable waist tie.",
+    "price": 139.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1564257577054-1e1f2675a9b9?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Tank Top",
+    "category": "women",
+    "description": "Lightweight tank top perfect for layering or summer wear.",
+    "price": 24.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Midi Skirt",
+    "category": "women",
+    "description": "A-line midi skirt with elastic waistband and flowy silhouette.",
+    "price": 64.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Trench Coat",
+    "category": "women",
+    "description": "Classic trench coat with double-breasted front and belt.",
+    "price": 199.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544441892-794166f1e3be?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Cropped Jacket",
+    "category": "women",
+    "description": "Stylish cropped jacket perfect for layering over dresses.",
+    "price": 89.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Leggings",
+    "category": "women",
+    "description": "High-waisted leggings with four-way stretch and compression fit.",
+    "price": 49.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Button-Up Shirt",
+    "category": "women",
+    "description": "Crisp cotton button-up shirt with classic collar and cuffs.",
+    "price": 74.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564257577054-1e1f2675a9b9?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Tunic Top",
+    "category": "women",
+    "description": "Flowy tunic top with three-quarter sleeves and curved hem.",
+    "price": 59.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1566479179817-83f5127a8b1d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Palazzo Pants",
+    "category": "women",
+    "description": "Wide-leg palazzo pants with high waist and flowy silhouette.",
+    "price": 79.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Bodysuit",
+    "category": "women",
+    "description": "Form-fitting bodysuit with snap closure and long sleeves.",
+    "price": 44.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544441892-794166f1e3be?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Kimono",
+    "category": "women",
+    "description": "Lightweight kimono cardigan perfect for layering over outfits.",
+    "price": 69.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566479179817-83f5127a8b1d?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Capri Pants",
+    "category": "women",
+    "description": "Cropped capri pants with straight leg and mid-rise waist.",
+    "price": 54.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Peplum Top",
+    "category": "women",
+    "description": "Fitted peplum top with flared hem and three-quarter sleeves.",
+    "price": 64.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1564257577054-1e1f2675a9b9?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Off-Shoulder Top",
+    "category": "women",
+    "description": "Romantic off-shoulder top with elastic neckline and short sleeves.",
+    "price": 49.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544441892-794166f1e3be?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Women's Yoga Pants",
+    "category": "women",
+    "description": "Stretchy yoga pants with wide waistband and bootcut legs.",
+    "price": 59.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids T-Shirt",
+    "category": "kids",
+    "description": "Soft cotton t-shirt perfect for everyday play and activities.",
+    "price": 19.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79d8926ad5ac?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Shorts",
+    "category": "kids",
+    "description": "Comfortable summer shorts with elastic waistband and side pockets.",
+    "price": 24.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79d8926ad5ac?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Sweater",
+    "category": "kids",
+    "description": "Cozy knit sweater to keep little ones warm during cooler weather.",
+    "price": 39.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79d8926ad5ac?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Jeans",
+    "category": "kids",
+    "description": "Durable denim jeans with adjustable waistband for growing kids.",
+    "price": 34.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79268d8f5d85?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Hoodie",
+    "category": "kids",
+    "description": "Comfortable pullover hoodie with kangaroo pocket and drawstring hood.",
+    "price": 44.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79268d8f5d85?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Dress",
+    "category": "kids",
+    "description": "Adorable dress perfect for special occasions and everyday wear.",
+    "price": 29.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79d8926ad5ac?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Leggings",
+    "category": "kids",
+    "description": "Stretchy leggings perfect for active play and comfortable movement.",
+    "price": 22.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79268d8f5d85?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Jacket",
+    "category": "kids",
+    "description": "Lightweight jacket perfect for layering during transitional weather.",
+    "price": 49.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79268d8f5d85?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Polo Shirt",
+    "category": "kids",
+    "description": "Classic polo shirt with collar and button placket for smart casual wear.",
+    "price": 27.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79d8926ad5ac?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Sweatpants",
+    "category": "kids",
+    "description": "Comfortable sweatpants with elastic waistband and ribbed cuffs.",
+    "price": 32.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79268d8f5d85?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Button-Up Shirt",
+    "category": "kids",
+    "description": "Crisp button-up shirt perfect for formal occasions and school events.",
+    "price": 36.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79268d8f5d85?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Cardigan",
+    "category": "kids",
+    "description": "Soft knit cardigan with button closure perfect for layering.",
+    "price": 41.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79d8926ad5ac?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Tank Top",
+    "category": "kids",
+    "description": "Lightweight tank top perfect for hot summer days and active play.",
+    "price": 16.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79d8926ad5ac?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  },
+  {
+    "title": "Kids Overalls",
+    "category": "kids",
+    "description": "Classic denim overalls with adjustable straps and multiple pockets.",
+    "price": 54.99,
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": true,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503944583220-79268d8f5d85?auto=format&fit=crop&w=600&h=600",
+        "isPrimary": false,
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "createdAt": "2025-07-23T11:15:30.123456Z",
+    "updatedAt": "2025-07-23T11:15:30.123456Z"
+  }
+]
