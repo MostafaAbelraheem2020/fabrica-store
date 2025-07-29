@@ -22,44 +22,32 @@ export function MyContextProvider({ children }) {
   const [loading, setLoading] = useState(true);
   const [dummyProducts, setDummyProducts] = useState([]);
 
-  // جلب المنتجات من Firebase
-  useEffect(() => {
+  // [Get Prodects from Firebase]
+  const fetchProducts = async () => {
     setLoading(true);
     console.log("🔄 جار بيانات المستخدم Firebase...");
-    //[Get authentcation from Firebase]
-    // const user = auth.currentUser;
-    // if (!user) {
-    //   console.error("❌ لم يتم تسجيل الدخول. يرجى تسجيل الدخول أولاً.");
-    // }
-    // console.log("✅ المستخدم الحالي:", user.email);
-
-    // [Get Prodects from Firebase]
-    const fetchProducts = async () => {
-      setLoading(true);
-      try {
-        const snapshot = await getDocs(collection(db, "products"));
-        const productsList = snapshot.docs.map((doc) => ({
-          id: doc.id,
-          ...doc.data(),
-        }));
-        localStorage.setItem("productsList", JSON.stringify(productsList));
-        setProducts(productsList);
-        console.log("✅ تم جلب المنتجات:", productsList);
-      } catch (error) {
-        console.error("❌ خطأ في جلب البيانات:", error.message);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchProducts();
-  }, []);
+    setLoading(true);
+    try {
+      const snapshot = await getDocs(collection(db, "products"));
+      const productsList = snapshot.docs.map((doc) => ({
+        id: doc.id,
+        ...doc.data(),
+      }));
+      localStorage.setItem("productsList", JSON.stringify(productsList));
+      setProducts(productsList);
+      console.log("✅ تم جلب المنتجات:", productsList);
+    } catch (error) {
+      console.error("❌ خطأ في جلب البيانات:", error.message);
+    } finally {
+      setLoading(false);
+    }
+  };
 
   // إضافة منتجات افتراضية الى قاعدة البيانات  مستقدمة من ملف JSON
   // // دالة رفع جميع منتجات dummy إلى فايرستور
   //[Get Prodects from Dummy json file ]
 
-  const fetchDummy = async () => {
+  async function fetchDummy() {
     setLoading(true);
     console.log("🔄 جاري جلب المنتجات من ملف JSON...");
     const dummyList = await dummyProductsjson.map((product, idx) => ({
@@ -81,18 +69,16 @@ export function MyContextProvider({ children }) {
       createdAt: new Date().toISOString(),
       updatedAt: new Date().toISOString(),
     }));
-    // حفظ المنتجات في الحالة المحلية
-
+    // حفظ المنتجات في localStorage
     localStorage.setItem("productsList", JSON.stringify(dummyList));
     for (const product of dummyList) {
-      // تجهيز بيانات المنتج بدون id (Firestore ينشئ id تلقائياً)
       const { id, ...productData } = product;
       await addDoc(collection(db, "products"), productData);
     }
     setProducts((prev) => [...prev, ...dummyList]);
 
     console.log("✅ تم جلب المنتجات من ملف JSON:", dummyList);
-  };
+  }
 
   // إضافة منتج جديد مع رفع الصورة إلى Cloudinary
   const addProduct = async (productData, imageFile) => {
@@ -179,6 +165,8 @@ export function MyContextProvider({ children }) {
         addProduct,
         deleteProduct,
         fetchDummy,
+
+        fetchProducts,
       }}
     >
       {children}
