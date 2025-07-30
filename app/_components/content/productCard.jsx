@@ -1,80 +1,17 @@
 import React from "react";
-import Image from "next/image";
-import { useState } from "react";
+import ProductImagesSlider from "./productImagesSlider";
 function Product({ product }) {
-  // استخدم صورة افتراضية إذا لم توجد صورة للمنتج
-  const images =
-    Array.isArray(product.images) && product.images.length > 0
-      ? product.images
-      : [
-          {
-            url: "/default-image.png",
-            width: 500,
-            height: 500,
-            isPrimary: true,
-          },
-        ];
-
-  // الصورة الأساسية أو أول صورة
-  const [selectedImage, setSelectedImage] = useState(
-    images.find((img) => img.isPrimary) || images[0]
-  );
-
   return (
     <a
-      href="#"
+      href={`/products/${product.id}`}
       className="block rounded-xl p-4 shadow-md bg-white relative transition hover:shadow-lg"
     >
       {/* معرض الصور */}
-      <div className="w-full h-48 relative rounded-xl overflow-hidden bg-gray-100 flex items-center justify-center">
-        <div className="product-gallery w-full">
-          {/* الصورة الرئيسية الكبيرة */}
-          <div className="main-image mb-2 w-full h-40 relative flex items-center justify-center">
-            <Image
-              src={selectedImage.url}
-              width={selectedImage.width}
-              height={selectedImage.height}
-              alt={product.title}
-              className="rounded-lg shadow-md object-cover transition-all duration-300 group-hover:scale-105"
-              style={{ maxHeight: "160px", maxWidth: "100%" }}
-              priority
-            />
-          </div>
-
-          {/* الصور المصغرة */}
-          {images.length > 1 && (
-            <div className="thumbnails flex gap-2 w-full  justify-center">
-              {images.map((image, index) => (
-                <button
-                  key={index}
-                  type="button"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    setSelectedImage(image);
-                    console.log(product);
-                  }}
-                  className={`flex-shrink-0 border-2 h-[20px] w-[20px] rounded-md overflow-hidden transition
-                    ${
-                      selectedImage.url === image.url
-                        ? "border-blue-500"
-                        : "border-gray-200 hover:border-gray-300"
-                    }
-                  `}
-                  aria-label={`عرض صورة رقم ${index + 1}`}
-                >
-                  <Image
-                    src={image.url}
-                    width={20}
-                    height={20}
-                    alt={`${product.title} - ${index + 1}`}
-                    className="object-cover"
-                  />
-                </button>
-              ))}
-            </div>
-          )}
-        </div>
-      </div>
+      <ProductImagesSlider
+        product={product}
+        imageWidth={200}
+        imageHeight={200}
+      />
       <div className="mt-4">
         <dl>
           <div>

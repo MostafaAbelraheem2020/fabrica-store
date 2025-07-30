@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect, useContext } from "react";
-import ProductsPage from "./productesList";
-import HeroSection from "./HeroSection";
+import ProductsPage from "./_components/content/productesList";
+import HeroSection from "./_components/content/HeroSection";
 import { MyContext } from "@/app/api/productsApis";
 
 function Main() {
